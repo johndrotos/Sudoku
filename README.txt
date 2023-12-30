@@ -1,0 +1,6 @@
+I solved all 400 boards from sudokus_start.txt
+
+min: 0.01200246810913086
+max: 1.6090385913848877
+mean: 0.14469121515750885
+std_dev: 0.1876633528010659
