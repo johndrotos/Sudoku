@@ -1,6 +1,1 @@
-I solved all 400 boards from sudokus_start.txt
-
-min: 0.01200246810913086
-max: 1.6090385913848877
-mean: 0.14469121515750885
-std_dev: 0.1876633528010659
+This was an assignment from my Artificial Intelligence course. I was given puzzle.py and skeleton code in the sudoku.py file. I implemented the bfs_search, dfs_search, A_star_search, calculate_total_cost(), calculate_manhattan_dist(), and test_goal() functions. 
